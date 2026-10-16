@@ -7,7 +7,7 @@
 筆者が筋トレにハマったことをきっかけに作ったリポジトリ。
 実際にやってきたトレーニングや食事の内容、その裏にある理論、AI（Claude ほか）と壁打ちして出た結論を、ここにまとめていく。
 
-- **参加自由**：誤字の修正、種目の追加、体験談、反論まで、誰でも Issue / PR を送っていい → [編集ガイド](CONTRIBUTING.md)
+- **参加自由**：誤字の修正、種目の追加、反論まで、誰でも Issue / PR を送っていい → [編集ガイド](CONTRIBUTING.md)
 - **改変自由**：[CC BY 4.0](LICENSE)。出典（このリポジトリ）を示せば、コピー・改変・再配布・商用利用も自由
 
 ---
@@ -61,10 +61,6 @@
 
 [タンパク質源](foods/protein-sources.md) ・ [炭水化物源](foods/carbs.md) ・ [サプリメント](foods/supplements.md)
 
-## 📝 体験談
-
-参加者の「やってみた」→ [stories/](stories/README.md)
-
 ## 🧰 テンプレート
 
 記録用・ページ作成用 → [templates/](templates/README.md)
@@ -73,13 +69,12 @@
 
 ## ✏️ 編集に参加する
 
-誤字の修正から種目の追加、体験談まで、誰でも編集できる。→ [編集ガイド](CONTRIBUTING.md)
+誤字の修正から種目の追加まで、誰でも編集できる。→ [編集ガイド](CONTRIBUTING.md)
 
 | 募集中 | |
 | --- | --- |
 | 種目ページの追加・加筆 | [exercises/](exercises/README.md) |
 | 地域ごとの安いタンパク質源 | [foods/protein-sources.md](foods/protein-sources.md) |
-| 最初の3週間の体験談 | [stories/](stories/README.md) |
 
 ## 更新履歴
 
