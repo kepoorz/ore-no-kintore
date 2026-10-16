@@ -30,7 +30,7 @@
 
 | ページ | 内容 |
 | --- | --- |
-| [身体を長期運用するという考え方](basics/philosophy.md) | 計測・改善のループ（エンジニア視点） |
+| [基本の考え方](basics/philosophy.md) | 続ける・記録する・少しずつ直す |
 | [筋トレの原則](basics/training-principles.md) | RIR・ボリューム・ダブルプログレッション・デロード |
 | [食べ物の考え方](basics/nutrition.md) | カロリー計算式・タンパク質・減量の基準 |
 | [有酸素運動：心臓を鍛える](basics/cardio.md) | 強度の指標・Zone 2・高強度の入れ方 |

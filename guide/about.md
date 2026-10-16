@@ -38,7 +38,7 @@
 - はじめに（このページ）
 - [はじめての3週間：初心者がつまずくところ](first-3-weeks.md)
 - [なぜやるのか：体が変わる理論](why.md)
-- [身体を長期運用するという考え方](../basics/philosophy.md)
+- [基本の考え方](../basics/philosophy.md)
 - [筋トレの原則](../basics/training-principles.md)
 - [食べ物の考え方](../basics/nutrition.md)
 - [有酸素運動：心臓を鍛える](../basics/cardio.md)
