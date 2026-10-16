@@ -15,4 +15,3 @@
 | --- | --- |
 | [pages/exercise.md](pages/exercise.md) | 種目図鑑の新規ページ |
 | [pages/page.md](pages/page.md) | 一般ページ |
-| [../stories/_template.md](../stories/_template.md) | 体験談 |
