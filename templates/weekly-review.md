@@ -30,6 +30,6 @@
 
 ## 判定
 
-- [ ] 7日平均体重の変化は −0.3〜−0.5 kg/週 の範囲か → 外れていれば BASE を調整（[05-nutrition.md](../basics/nutrition.md)）
-- [ ] 回復のアラート条件に該当していないか（[07-recovery.md](../basics/recovery.md)）
-- [ ] デロードのトリガーに該当していないか（[04-training-principles.md](../basics/training-principles.md)）
+- [ ] 7日平均体重の変化は −0.3〜−0.5 kg/週 の範囲か → 外れていれば BASE を調整（[食べ物の考え方](../basics/nutrition.md)）
+- [ ] 疲れがたまっているサインが出ていないか（[睡眠と回復](../basics/recovery.md)）
+- [ ] デロードを入れるタイミングか（[筋トレの原則](../basics/training-principles.md)）
