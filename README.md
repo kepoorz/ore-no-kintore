@@ -35,7 +35,6 @@
 | [食べ物の考え方](basics/nutrition.md) | カロリー計算式・タンパク質・減量の基準 |
 | [有酸素運動：心臓を鍛える](basics/cardio.md) | 強度の指標・Zone 2・高強度の入れ方 |
 | [睡眠と回復](basics/recovery.md) | 回復不足のサインと対策 |
-| [AI と一緒にトレーニングを設計する](basics/llm-workflow.md) | 複数 AI のクロスレビュー |
 | [参考文献](basics/references.md) | |
 
 ## 🗺️ 部位別ガイド

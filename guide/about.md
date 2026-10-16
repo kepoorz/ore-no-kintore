@@ -43,7 +43,6 @@
 - [食べ物の考え方](../basics/nutrition.md)
 - [有酸素運動：心臓を鍛える](../basics/cardio.md)
 - [睡眠と回復](../basics/recovery.md)
-- [AI と一緒にトレーニングを設計する](../basics/llm-workflow.md)
 - [プログラム集（週3〜6日）](../programs/README.md)
 - [記録テンプレート](../templates)
 - [参考文献](../basics/references.md)
