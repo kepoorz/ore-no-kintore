@@ -36,7 +36,7 @@
 ## 目次
 
 - はじめに（このページ）
-- [はじめての3週間：初心者がつまずくところ](first-3-weeks.md)
+- [はじめての3週間：筋トレとは何か、まず何をすればいいか](first-3-weeks.md)
 - [なぜやるのか：体が変わる理論](why.md)
 - [基本の考え方](../basics/philosophy.md)
 - [筋トレの原則](../basics/training-principles.md)
