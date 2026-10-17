@@ -17,7 +17,7 @@
 | まずここから | |
 | --- | --- |
 | [この wiki について](guide/about.md) | 考え方・読み方・目次 |
-| [**はじめての3週間**](guide/first-3-weeks.md) | 初心者がつまずくところと、最初の3週間のメニュー |
+| [**はじめての3週間**](guide/first-3-weeks.md) | 筋トレとは何か・まず何をすればいいか・最初の3週間のメニュー |
 | [なぜやるのか](guide/why.md) | 体が変わる理論 |
 | [よくある質問](faq.md) | 「重量が上がらない」「筋肉痛がこない」など |
 | [用語集](glossary.md) | RM・RIR・PPL などの意味 |
@@ -49,7 +49,7 @@
 
 | 週の日数 | プログラム |
 | --- | --- |
-| 2〜3日（初心者） | [はじめての3週間](guide/first-3-weeks.md#はじめての3週間プログラム) |
+| 2〜3日（初心者） | [はじめての3週間](guide/first-3-weeks.md#メニュー) |
 | 3日 | [全身 × 3](programs/3-day.md) |
 | 4日 | [Upper / Lower × 2](programs/4-day.md) |
 | 5日 | [Upper / Lower + PPL](programs/5-day.md) |
