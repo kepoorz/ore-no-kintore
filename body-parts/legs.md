@@ -9,7 +9,7 @@
 
 - **ハムストリングスは2つの動作を必ず残す**
   - 股関節伸展：[RDL](../exercises/romanian-deadlift.md)
-  - 膝屈曲：[ケーブル・レッグカール](../exercises/cable-leg-curl.md) / [Nordic](../exercises/nordic-hamstring-curl.md)
+  - 膝屈曲：[ケーブル・レッグカール](../exercises/cable-leg-curl.md) / [Nordic ハムストリングカール](../exercises/nordic-hamstring-curl.md)
   - RDL だけでは完結しない [[Morin 2025]](../basics/references.md#morin-2025) [[Maeo 2021]](../basics/references.md#maeo-2021)。スクワットもハム種目としては数えすぎない
 - スクワットの深さは目的化しない。腰・骨盤を制御できる範囲で十分に深く [[Kubo 2019]](../basics/references.md#kubo-2019)
 - カーフは **スタンディング** を主力に [[Kinoshita 2023]](../basics/references.md#kinoshita-2023)
@@ -19,7 +19,7 @@
 | 部位 | 種目 |
 | --- | --- |
 | 四頭 | [スミス・スクワット](../exercises/smith-squat.md) / [ブルガリアンスクワット](../exercises/bulgarian-split-squat.md) / [レッグエクステンション](../exercises/leg-extension.md) |
-| ハム | [RDL](../exercises/romanian-deadlift.md) / [ケーブル・レッグカール](../exercises/cable-leg-curl.md) / [Nordic](../exercises/nordic-hamstring-curl.md) |
+| ハム | [RDL](../exercises/romanian-deadlift.md) / [ケーブル・レッグカール](../exercises/cable-leg-curl.md) / [Nordic ハムストリングカール](../exercises/nordic-hamstring-curl.md) |
 | 臀 | [ヒップスラスト](../exercises/hip-thrust.md) |
 | カーフ | [スタンディング・カーフレイズ](../exercises/standing-calf-raise.md) |
 
