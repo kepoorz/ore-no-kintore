@@ -1,7 +1,7 @@
 # 参考文献
 
 本文中の `[著者 年]` リンクはこのページの各見出しに飛ぶ。
-各文献は PubMed / DOI で書誌情報と abstract を確認済み（2026-10-16）。「この wiki での使い方」に、文献が直接示していることと、そこからの推論を分けて書いている。
+各文献は PubMed / DOI で書誌情報と abstract を確認済み（2026-10-18）。「この wiki での使い方」に、文献が直接示していることと、そこからの推論を分けて書いている。
 
 文献を追加するときは、見出しを `筆頭著者-年`（英小文字 kebab）にし、同じフォーマットで書く。→ [編集ガイド](../CONTRIBUTING.md#根拠の扱い)
 
@@ -15,6 +15,22 @@
 
 - **示していること**：筋力は高負荷・フル ROM・週2回以上で向上。筋肥大は週10セット以上のボリュームが重要。failure、TUT、器具、ピリオダイゼーションは一貫した影響を示さない
 - **この wiki での使い方**：ボリューム重視・毎セット failure 不要・テンポを絶対条件にしない根拠
+
+## 初期の筋力向上（神経適応）
+
+### sale-1988
+
+**Sale DG (1988).** Neural adaptation to resistance training. *Med Sci Sports Exerc* 20(5 Suppl):S135-145. [PubMed 3057313](https://pubmed.ncbi.nlm.nih.gov/3057313/)
+
+- **示していること**：筋力は筋肉の量・質だけでなく、神経系が筋肉を活性化・協調させる能力にも依存する。筋電図研究で、筋力の向上が主働筋の活動増加と結びついていることを示した総説
+- **この wiki での使い方**：「最初に伸びるのは筋肉ではなく神経」の根拠。総説であり、初期の伸びの **何割が神経か** を数値で示したものではない
+
+### del-vecchio-2019
+
+**Del Vecchio A et al. (2019).** The increase in muscle force after 4 weeks of strength training is mediated by adaptations in motor unit recruitment and rate coding. *J Physiol* 597(7):1873-1887. [PubMed 30727028](https://pubmed.ncbi.nlm.nih.gov/30727028/)
+
+- **示していること**：4週間の等尺性トレーニングで、運動単位の発火頻度が上がり、動員される力の閾値が下がった。初期の筋力向上は脊髄から筋への出力増加によると結論
+- **この wiki での使い方**：初期の筋力向上が神経適応で説明できることの原著。前脛骨筋の等尺性トレーニングでの結果なので、コンパウンド種目への一般化は **推論**
 
 ## ボリューム・頻度・分割
 
@@ -148,7 +164,7 @@
 - **示していること**：U-19 サッカー選手で、8週間の Copenhagen により股関節内転筋のエキセントリック筋力が約36%向上
 - **この wiki での使い方**：内転筋の強化。「抗側屈」として分類しているのは **実務上の分類** で、この文献の根拠ではない
 
-## 有酸素との併用
+## 有酸素・筋トレとの併用
 
 ### held-2026
 
@@ -156,6 +172,75 @@
 
 - **示していること**：筋トレと有酸素の併用は、筋トレ単独と比べて筋力・肥大が同程度。順序の有意な効果はないが、筋トレを先にすると筋力・肥大に有利な傾向
 - **この wiki での使い方**：筋トレが先。「筋トレ後は低強度」「脚の日は有酸素を軽く」は、脚の疲労を考えた **実務上の判断** で、この文献が直接示したものではない
+
+### kodama-2009
+
+**Kodama S et al. (2009).** Cardiorespiratory fitness as a quantitative predictor of all-cause mortality and cardiovascular events in healthy men and women: a meta-analysis. *JAMA* 301(19):2024-2035. [PubMed 19454641](https://pubmed.ncbi.nlm.nih.gov/19454641/)
+
+- **示していること**：33 の観察コホート（約10万人）のメタ解析。最大有酸素能力が 1 MET 高いごとに全死亡リスクが約13%低い。低体力群は高体力群に比べ全死亡 1.7 倍
+- **この wiki での使い方**：「心肺機能は寿命と強く関係する」の根拠。観察研究の関連であり、有酸素運動を増やせば寿命が延びることを直接示した介入研究ではない
+
+### mandsager-2018
+
+**Mandsager K et al. (2018).** Association of Cardiorespiratory Fitness With Long-term Mortality Among Adults Undergoing Exercise Treadmill Testing. *JAMA Netw Open* 1(6):e183605. [PubMed 30646252](https://pubmed.ncbi.nlm.nih.gov/30646252/)
+
+- **示していること**：トレッドミル検査を受けた約12万人の後方視コホート。心肺機能が高いほど全死亡は低く、上限は観察されなかった。低体力の影響は喫煙や糖尿病と同等以上
+- **この wiki での使い方**：VO2max を上げる意味の説明。検査目的で紹介された患者の集団なので、健康な一般人にそのまま当てはめるのは **推論**
+
+### who-2020
+
+**Bull FC et al. (2020).** World Health Organization 2020 guidelines on physical activity and sedentary behaviour. *Br J Sports Med* 54(24):1451-1462. [PubMed 33239350](https://pubmed.ncbi.nlm.nih.gov/33239350/)
+
+- **示していること**：成人は週 150〜300 分の中強度、または 75〜150 分の高強度の有酸素活動（または同等の組み合わせ）を行う。全年齢で定期的な筋力トレーニングも推奨
+- **この wiki での使い方**：「週150〜300分」の最低ラインの出典。健康のためのガイドラインであり、減量や筋肥大に最適な量を示したものではない
+
+### helgerud-2007
+
+**Helgerud J et al. (2007).** Aerobic high-intensity intervals improve VO2max more than moderate training. *Med Sci Sports Exerc* 39(4):665-671. [PubMed 17414804](https://pubmed.ncbi.nlm.nih.gov/17414804/)
+
+- **示していること**：総仕事量を揃えた8週間の比較で、4×4分（HRmax 90〜95%、休息3分）と 15/15 秒インターバルは、持続的な中強度より VO2max を大きく伸ばした（4×4 で +7.2%）
+- **この wiki での使い方**：「4×4 インターバル」のメニューの出所。中等度に鍛えた男性40名の研究で、週3回実施している。「週1回・20〜30分まで」は筋トレとの両立を考えた **実務上の判断** で、この文献の推奨ではない
+
+### tanaka-2001
+
+**Tanaka H et al. (2001).** Age-predicted maximal heart rate revisited. *J Am Coll Cardiol* 37(1):153-156. [PubMed 11153730](https://pubmed.ncbi.nlm.nih.gov/11153730/)
+
+- **示していること**：351 研究のメタ解析と 514 名の実測から、最大心拍数 = 208 − 0.7 × 年齢。性別や日常の活動量による差はなく、従来の 220 − 年齢は高齢者で過小評価する
+- **この wiki での使い方**：心拍ゾーンの目安を出す式。個人差は大きく、推定値は実測と ±10 bpm 程度ずれることがある（本文の注記は **実務上の目安**）
+
+## 食事
+
+### morton-2018
+
+**Morton RW et al. (2018).** A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults. *Br J Sports Med* 52(6):376-384. [PubMed 28698222](https://pubmed.ncbi.nlm.nih.gov/28698222/)
+
+- **示していること**：49 RCT・1,863 名のメタ解析。タンパク質補給は筋トレによる筋力・除脂肪量・筋断面積の増加を高める。総摂取量が約 1.6 g/kg/日を超えると除脂肪量の追加増加は見られなかった
+- **この wiki での使い方**：「体重 × 1.6 g」の下限の根拠。上限の 2.2 g/kg は、減量中に筋肉を守るための余裕を見た **実務上の幅** で、この文献が最適値として示したものではない
+
+### mifflin-1990
+
+**Mifflin MD et al. (1990).** A new predictive equation for resting energy expenditure in healthy individuals. *Am J Clin Nutr* 51(2):241-247. [PubMed 2305711](https://pubmed.ncbi.nlm.nih.gov/2305711/)
+
+- **示していること**：健康な成人 498 名の間接熱量測定から、安静時エネルギー消費量 = 10 × 体重 + 6.25 × 身長 − 5 × 年齢 + 5（男性）/ − 161（女性）。従来の Harris-Benedict 式は約5%過大評価
+- **この wiki での使い方**：「何もしなくても使うカロリー」の計算式。× 1.2 の係数と、BASE を記録から逆算して補正するやり方は **筆者の実務上の方法** で、この文献が示したものではない
+
+## 回復
+
+### nedeltcheva-2010
+
+**Nedeltcheva AV et al. (2010).** Insufficient sleep undermines dietary efforts to reduce adiposity. *Ann Intern Med* 153(7):435-441. [PubMed 20921542](https://pubmed.ncbi.nlm.nih.gov/20921542/)
+
+- **示していること**：過体重の成人10名のクロスオーバー試験。14日間の減量食で、睡眠 5.5 時間は 8.5 時間に比べて脂肪の減少が55%少なく、除脂肪量の減少が60%多かった。空腹感も増えた
+- **この wiki での使い方**：「睡眠不足だと痩せても筋肉ばかり落ちる」の根拠。10名・2週間の小規模研究なので、「睡眠不足は減量を止める一番大きな原因」という本文の強調は **筆者の経験に基づく判断** を含む
+
+## サプリメント
+
+### kreider-2017
+
+**Kreider RB et al. (2017).** International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine. *J Int Soc Sports Nutr* 14:18. [PubMed 28615996](https://pubmed.ncbi.nlm.nih.gov/28615996/)
+
+- **示していること**：クレアチン補給は筋内クレアチン濃度を高め、高強度運動のパフォーマンスとトレーニング適応を向上させる。短期・長期（最大 30 g/日を5年）とも健康な人では安全
+- **この wiki での使い方**：クレアチンを「○」にする根拠。1日 3〜5 g・タイミング不問は位置声明の維持量に沿った **実務上の使い方**
 
 ---
 
@@ -165,12 +250,4 @@
 
 | 主張 | ページ |
 | --- | --- |
-| タンパク質 1.6〜2.2 g/kg | [食べ物の考え方](nutrition.md) |
-| 初期の筋力向上は主に神経適応による | [はじめての3週間](../guide/first-3-weeks.md) |
-| 心肺機能（VO2max）は寿命の強い予測因子 | [有酸素運動](cardio.md) |
-| WHO の身体活動ガイドライン（週150〜300分） | [有酸素運動](cardio.md) |
-| 4×4 インターバル | [有酸素運動](cardio.md) |
-| Tanaka 式（HRmax = 208 − 0.7 × 年齢） | [有酸素運動](cardio.md) |
-| 睡眠不足と除脂肪の減少 | [睡眠と回復](recovery.md) |
-| クレアチンの効果 | [サプリメント](../foods/supplements.md) |
-| Mifflin-St Jeor 式 | [食べ物の考え方](nutrition.md) |
+| （現在なし。本文で出典のない主張を見つけたらここに追加する） | |
