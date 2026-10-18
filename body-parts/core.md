@@ -12,6 +12,7 @@
 | --- | --- | --- | --- |
 | 屈曲 | 背中を丸める | [ケーブルクランチ](../exercises/cable-crunch.md) | 3 |
 | 抗伸展 | 腰が反るのを防ぐ | [RKC プランク](../exercises/rkc-plank.md) | 3 |
+| 抗伸展（初心者向け） | 同上。RKC プランクの前段階 | [プランク](../exercises/plank.md) / [デッドバグ](../exercises/dead-bug.md) | はじめての3週間で各2セット |
 | 抗回旋 | ねじれを防ぐ | [Pallof press](../exercises/pallof-press.md) | 3 |
 | 抗側屈 + 内転筋 | 横に倒れるのを防ぐ | [Copenhagen plank](../exercises/copenhagen-plank.md) [[Ishøi 2016]](../basics/references.md#ishoi-2016) | 2 |
 

@@ -19,8 +19,10 @@
 | 部位 | 種目 |
 | --- | --- |
 | 四頭 | [スミス・スクワット](../exercises/smith-squat.md) / [ブルガリアンスクワット](../exercises/bulgarian-split-squat.md) / [レッグエクステンション](../exercises/leg-extension.md) |
+| 四頭（初心者向け） | [レッグプレス](../exercises/leg-press.md) / [ゴブレットスクワット](../exercises/goblet-squat.md) |
 | ハム | [RDL](../exercises/romanian-deadlift.md) / [ケーブル・レッグカール](../exercises/cable-leg-curl.md) / [Nordic](../exercises/nordic-hamstring-curl.md) |
 | 臀 | [ヒップスラスト](../exercises/hip-thrust.md) |
+| 臀（初心者向け） | [ヒップリフト / グルートブリッジ](../exercises/glute-bridge.md) |
 | カーフ | [スタンディング・カーフレイズ](../exercises/standing-calf-raise.md) |
 
 ## 注意
