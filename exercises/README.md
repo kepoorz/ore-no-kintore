@@ -70,6 +70,9 @@
 | ケーブル・レッグカール | ケーブル + 足首カフ | ★★☆ | ハムストリングス | [cable-leg-curl](cable-leg-curl.md) |
 | Nordic ハムストリングカール | 自重 | ★★★ | ハムストリングス | [nordic-hamstring-curl](nordic-hamstring-curl.md) |
 | スタンディング・カーフレイズ | スミス / ダンベル / 自重 | ★☆☆ | 腓腹筋 | [standing-calf-raise](standing-calf-raise.md) |
+| レッグプレス | マシン | ★☆☆ | 大腿四頭筋、大臀筋 | [leg-press](leg-press.md) |
+| ゴブレットスクワット | ダンベル / ケトルベル | ★☆☆ | 大腿四頭筋、大臀筋 | [goblet-squat](goblet-squat.md) |
+| ヒップリフト / グルートブリッジ | 自重 | ★☆☆ | 大臀筋 | [glute-bridge](glute-bridge.md) |
 
 ## コア
 
@@ -79,3 +82,5 @@
 | RKC プランク | 自重 | ★★☆ | 腹直筋、腹横筋 | [rkc-plank](rkc-plank.md) |
 | パロフプレス | ケーブル / バンド | ★☆☆ | 腹斜筋群、腹横筋 | [pallof-press](pallof-press.md) |
 | コペンハーゲン・プランク | 自重 + ベンチ | ★★★ | 内転筋群、腹斜筋群 | [copenhagen-plank](copenhagen-plank.md) |
+| デッドバグ | 自重 | ★☆☆ | 腹横筋、腹直筋 | [dead-bug](dead-bug.md) |
+| プランク | 自重 | ★☆☆ | 腹直筋、腹横筋 | [plank](plank.md) |
