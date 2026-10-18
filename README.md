@@ -8,7 +8,7 @@
 実際にやってきたトレーニングや食事の内容、その裏にある理論、AI（Claude ほか）と壁打ちして出た結論を、ここにまとめていく。
 
 - **参加自由**：誤字の修正、種目の追加、反論まで、誰でも Issue / PR を送っていい → [編集ガイド](CONTRIBUTING.md)
-- **改変自由**：[CC BY 4.0](LICENSE)。出典（このリポジトリ）を示せば、コピー・改変・再配布・商用利用も自由
+- **改変自由**：[CC BY 4.0](LICENSE)。出典（この wiki）を示せば、コピー・改変・再配布・商用利用も自由
 
 ---
 
@@ -74,6 +74,7 @@
 | --- | --- |
 | 種目ページの追加・加筆 | [exercises/](exercises/README.md) |
 | 地域ごとの安いタンパク質源 | [foods/protein-sources.md](foods/protein-sources.md) |
+| 朝・昼・夜の具体的な献立とグラム数 | [basics/nutrition.md](basics/nutrition.md) |
 
 ## 更新履歴
 
