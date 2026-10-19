@@ -27,6 +27,7 @@
 | あなたの状況 | 最初に読む章 |
 | --- | --- |
 | これから始める / 始めたばかり | [はじめての3週間](first-3-weeks.md) |
+| 3週間終わった。次を決めたい / 伸びなくなった | [3週間が終わったら：次の12週間](next-12-weeks.md) |
 | なぜそうするのか知りたい | [なぜやるのか](why.md) |
 | 自分でメニューを組みたい | [筋トレの原則](../basics/training-principles.md) → [プログラム集](../programs/README.md) |
 | 痩せたい | [食事](../basics/nutrition.md) |
@@ -37,6 +38,7 @@
 
 - はじめに（このページ）
 - [はじめての3週間：筋トレとは何か、まず何をすればいいか](first-3-weeks.md)
+- [3週間が終わったら：次の12週間](next-12-weeks.md)
 - [なぜやるのか：体が変わる理論](why.md)
 - [基本の考え方](../basics/philosophy.md)
 - [筋トレの原則](../basics/training-principles.md)
